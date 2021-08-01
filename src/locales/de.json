@@ -1,0 +1,32 @@
+{
+  "forgot_password_page": {
+    "title": "Du hast dein Passwort vergessen?",
+    "no_problem_give_your_email": " Kein Problem, dass kann passieren! Gib unten einfach deine E-Mail Adresse ein und wir schicken dir einen Link zum Zurücksetzen.",
+    "label": "E-Mail Adresse",
+    "warning_message": "Please enter a valid email",
+    "button": "Schick mir einen Link"
+  },
+  "email_sent_page": {
+    "title": "Eine E-mail ist unterwegs",
+    "message": "Click auf den Link in deiner email, um dein Passwort zurückzusetzen."
+  },
+  "new_password_page": {
+    "title": "Hallo Jess! Du mochtest dein Passwort zurücksetzen?",
+    "body_message_one": "Wir haben eine anfrage erhalten, dein Passwort zurückzusetzen.",
+    "body_message_two": "Falls du diese Anfrage nicht verschickt hast, ignoriere diese E-Mail einfach. Um ein neues Passwort zu vergeben, kicke auf den Link und vergib eine neues Passwort.",
+    "button": "Neues Passwort vergeben"
+  },
+  "change_password_page": {
+    "title": "Passwort erfolgreich geändert!",
+    "message": "Kein problem, dass kann passieren! Vergib unten einfach ein Neues Passwort",
+    "new_password_label": "Neues Passwort",
+    "confirm_new_password_label": "Neues Passwort wiederholen",
+    "button": "Passwort speichern",
+    "warning_message": "Passwörter stimmen nicht überein"
+  },
+  "success_change_page": {
+    "title": "Password erfolgreich geändert!",
+    "message": "Dein Passwort wurde geändert. Wir freuen uns auf ein baldiges Wiedersehen.",
+    "button": "Geh auf mein Profil"
+  }
+}

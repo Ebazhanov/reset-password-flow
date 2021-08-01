@@ -1,0 +1,32 @@
+{
+  "forgot_password_page": {
+    "title": "Forgot your password?",
+    "no_problem_give_your_email": " No problem, it happens! Just give us your email address and we'll send you a reset link.",
+    "label": "E-mail address",
+    "warning_message": "Please enter a valid email",
+    "button": "Send me a reset link"
+  },
+  "email_sent_page": {
+    "title": "An email is on its way.",
+    "message": "Click the link in your email to reset your password."
+  },
+  "new_password_page": {
+    "title": "Hi Jess! Forgot your password?",
+    "body_message_one": "No problem it happens! If you click the link below you can pick a new one.",
+    "body_message_two": "If you didn't request a password change please get in touch with us.",
+    "button": "Choose new password"
+  },
+  "change_password_page": {
+    "title": "Reset your password",
+    "message": "Choose a new one below",
+    "new_password_label": "New password",
+    "confirm_new_password_label": "Confirm new password",
+    "button": "Save password",
+    "warning_message": "Passwords don't match"
+  },
+  "success_change_page": {
+    "title": "Success!",
+    "message": "Your password has been changed. We are looking forward to seeing you again soon.",
+    "button": "Go to my profile"
+  }
+}
