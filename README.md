@@ -11,8 +11,8 @@
 - [x] E2E screenshot tests
 
 ### Want to change translation manually DE/EN?
-- http://localhost:3000/?lng=en
-- http://localhost:3000/?lng=de
+- http://localhost:3002/?lng=en
+- http://localhost:3002/?lng=de
 
 ### Reset password flow
 - `$ yarn start`
